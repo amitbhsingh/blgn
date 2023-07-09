@@ -1,15 +1,17 @@
-import React from 'react'
-import { Link } from 'react-router-dom/';
+import { Link } from 'react-router-dom/'
 const Navbar = () => {
   return (
-    <div className="navbar">
+    <nav className="navbar">
       <h1>Blog</h1>
       <div className="links">
-        <Link></Link>
         <Link to="/">Home</Link>
-        <Link to="/Create" >New Blog</Link>
+        <Link to="/Create" style={{
+          color:'white',
+          backgroundColor:'#f1356d',
+          borderRadius:'8px'
+        }}>New Blog</Link>
       </div>
-    </div>
+    </nav>
     
   );
 }
