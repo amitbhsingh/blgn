@@ -1,28 +1,22 @@
 {
   "blogs": [
     {
-      "title": "afg",
-      "body": "afg",
-      "author": "mario",
-      "id": 4
-    },
-    {
-      "title": "How to become react developer",
-      "body": "follow along tutorials  and you may be able to learn.",
-      "author": "mario",
-      "id": 6
-    },
-    {
       "title": "My first blog",
       "body": "not really a blog ",
       "author": "Leo",
       "id": 7
     },
     {
-      "title": "argf",
-      "body": "arfg",
+      "title": "sdag",
+      "body": "asdfg",
       "author": "amit",
       "id": 8
+    },
+    {
+      "title": "Test",
+      "body": "if ",
+      "author": "amit",
+      "id": 9
     }
   ]
 }
