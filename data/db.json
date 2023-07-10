@@ -1,22 +1,28 @@
 {
   "blogs": [
     {
-      "title": "My first blog",
-      "body": "not really a blog ",
+      "title": "first blog",
+      "body": "empty",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "New blog",
+      "body": "asfgd",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "afgd",
+      "body": "afsg",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "afg",
+      "body": "fsag",
       "author": "Leo",
-      "id": 7
-    },
-    {
-      "title": "sdag",
-      "body": "asdfg",
-      "author": "amit",
-      "id": 8
-    },
-    {
-      "title": "Test",
-      "body": "if ",
-      "author": "amit",
-      "id": 9
+      "id": 4
     }
   ]
 }
